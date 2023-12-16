@@ -1,0 +1,8 @@
+Figures/
+__pycache__/
+
+*.txt
+*.csv
+*.pdf
+*.docx
+*.sql
